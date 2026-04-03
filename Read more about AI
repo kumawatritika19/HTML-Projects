@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Latest Technology News</h1>
+<hr>
+
+<h3>AI News</h3>
+<p>Artificial Intelligence is changing industries with automation, machine learning and smart systems.</p>
+<a href="https://www.technologyreview.com/" target="_blank">
+Read more about AI
+</a>
+
+<hr>
+
+<h3>Mobile Technology</h3>
+<p>Mobile devices are becoming more powerful with 5G networks and advanced processors.</p>
+<a href="https://www.gsmarena.com/" target="_blank">
+Read more about Mobile Technology
+</a>
+
+<hr>
+
+<h3>Space & Science</h3>
+<p>Space agencies are exploring new planets and launching satellites for scientific research.</p>
+<a href="https://www.nasa.gov/" target="_blank">
+Read more about Space & Science
+</a>
+
+<hr>
+
+<h3>Cyber Security</h3>
+<p>Cyber Security helps protect data from hackers, malware and online attacks.</p>
+<a href="https://www.kaspersky.com/resource-center" target="_blank">
+Read more about Cyber Security
+</a>
+
+<hr>
+
+</body>
+</html>
+
+
